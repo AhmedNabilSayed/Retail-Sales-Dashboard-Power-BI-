@@ -67,7 +67,7 @@ Key measures developed:
 * Top customers
 * Customer Order Distribution
 
-![Overview](screenshots/Customer Analysis Page.png)
+screenshots/Customer Analysis Page.png
 
 ---
 
