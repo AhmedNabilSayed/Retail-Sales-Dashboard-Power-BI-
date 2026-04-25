@@ -73,7 +73,7 @@ Key measures developed:
 
 ### Model View
 
-![Overview](screenshots/Model View.png)
+![Model_View](screenshots/Model%20View.png)
 
 ## 🔍 Key Insights
 
