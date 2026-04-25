@@ -48,7 +48,7 @@ Key measures developed:
 * Top 5 Sub-Category Profit
 * Sales Contribution by Category
 
-![Overview](screenshots/Overview Page.png)
+![Overview](screenshots/Overview%20Page.png)
 
 ### 2. Product Analysis
 
@@ -57,7 +57,7 @@ Key measures developed:
 * Scatter plot (Sales vs Profit)
 * Discount impact on profit margin
 
-![Overview](screenshots/Product Analysis Page.png)
+![Product_Analysis_Page](screenshots/Product%20Analysis%20Page.png)
 
 ### 3. Customer Analysis
 
@@ -67,7 +67,7 @@ Key measures developed:
 * Top customers
 * Customer Order Distribution
 
-screenshots/Customer Analysis Page.png
+![Customer_Analysis_Page](screenshots/Customer%20Analysis%20Page.png)
 
 ---
 
